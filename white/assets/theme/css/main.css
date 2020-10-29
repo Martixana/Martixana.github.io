@@ -250,7 +250,7 @@ h3 {
     	min-height: 485px;
     }
     #quote1, #quote2, #quote3 {
-		text-size: 60%;
+		font-size: 60%;
 	}
 }
 
